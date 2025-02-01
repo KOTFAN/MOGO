@@ -10,6 +10,7 @@
 - **jQuery** - Simplified DOM manipulation and animations
 - **Responsive Design** - Optimized for all screen sizes and devices
 - **CSS & jQuery Animations** - Smooth transitions and hover effects
+- **Slick slider** - for comments section
 
 - 
 ## 🔥 Features
