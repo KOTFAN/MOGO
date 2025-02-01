@@ -12,7 +12,8 @@
 - **CSS & jQuery Animations** - Smooth transitions and hover effects
 - **Slick slider** - for comments section
 
-- 
+
+
 ## 🔥 Features
 
 ✅ Clean and professional design  
